@@ -1,0 +1,12 @@
+Status   Income     Tax      Message
+married  5000.00    300.00   Boo  
+single   15000.00   2000.00  Yay! 
+single   100000.00  9450.00  Yay! 
+married  150000.00  17100.00 Yay! 
+married  10000.00   540.00   Boo  
+single   30000.00   3500.00  Yay! 
+married  2500.00    135.00   Boo  
+single   1000.00    50.00    Boo  
+Percent of married users: 50.0%
+Average tax paid by single user $: 3750.0
+Highest tax paid: $17100.0
